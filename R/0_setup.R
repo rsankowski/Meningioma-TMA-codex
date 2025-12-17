@@ -1,0 +1,8 @@
+dir.create("R")
+dir.create("data")
+dir.create("results")
+dir.create("plots")
+dir.create(file.path("plots","umap"))
+dir.create(file.path("plots","heatmaps"))
+dir.create(file.path("plots","others"))
+dir.create("references")
